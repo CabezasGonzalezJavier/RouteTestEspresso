@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RotateScreenExpresso</string>
+    <string name="activity_main_increment">Increment</string>
+    <string name="activity_main_url">TheDeveloperWorldIsYours.com</string>
+</resources>
